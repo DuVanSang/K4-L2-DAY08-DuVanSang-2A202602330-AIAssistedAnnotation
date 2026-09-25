@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị cắt ở góc mép,added,Chỉ khoanh phần thân xe còn nhìn thấy trong ảnh
+1,frame_0107.jpg,vệt đèn loang trên mặt đường,deleted,Không phải xe nên xóa khung
+1,frame_0182.jpg,xe ô tô ở làn sát dải phân cách,edited,Kéo các cạnh ôm sát mép thân xe kể cả đèn
